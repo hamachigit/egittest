@@ -8,12 +8,4 @@ public class Test {
 		System.out.println("ブランチ");
 	}
 
-	private void test7() {
-	}
-
-	private void test8() {
-	}
-
-	private void test9() {
-	}
 }
