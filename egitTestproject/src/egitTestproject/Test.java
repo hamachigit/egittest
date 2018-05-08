@@ -9,7 +9,8 @@ public class Test {
 	}
 
 	private void test() {
-		// コメントを追加
 	}
 
+	private void test2() {
+	}
 }
